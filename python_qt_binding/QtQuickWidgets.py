@@ -1,0 +1,1 @@
+from PyQt5.QtQuickWidgets import * # noqa: F401

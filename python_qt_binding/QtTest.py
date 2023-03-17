@@ -1,0 +1,1 @@
+from PyQt5.QtTest import * # noqa: F401

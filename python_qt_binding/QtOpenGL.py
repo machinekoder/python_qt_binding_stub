@@ -1,0 +1,1 @@
+from PyQt5.QtOpenGL import * # noqa: F401

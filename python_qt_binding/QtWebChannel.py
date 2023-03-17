@@ -1,0 +1,1 @@
+from PyQt5.QtWebChannel import * # noqa: F401
