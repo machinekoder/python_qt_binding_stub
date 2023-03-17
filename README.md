@@ -3,6 +3,14 @@
 It's quite annoying that most ides can't fully resolve the `python_qt_binding` module. 
 This repo contains a workaround for this.
 
+Before this fix:
+![before](docs/before.png)
+
+After this fix:
+![after](docs/after.png)
+
+Hooray!
+
 ## Generate some stubs
 
 To regenerate the stubs run the `create_stubs.py` script.
